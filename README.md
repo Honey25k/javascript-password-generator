@@ -6,6 +6,8 @@ This project is built with HTML,CSS and JavaScript.
 
 ![portfolio screenshot](/assets/images/screenshotpswd.png)
 
+![portfolio screenshot](/assets/images/screenshootpswd.png)
+
 ## Link to finished project:
 
 
