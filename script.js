@@ -104,6 +104,7 @@ if (!userOptionLowerCase &&
     // A new variable to store generated password 
     var newPasswordStorage = [];
 
+    // Select password randomly after matched with user option
     for(var i = 0; i < userChoiceLength; i++) {
       var userChoiceOne  = userChoice[Math.floor(Math.random() * userChoice.length)];
       newPasswordStorage.push(userChoiceOne);
