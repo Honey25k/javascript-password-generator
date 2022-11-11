@@ -65,7 +65,7 @@ if (!userOptionLowerCase &&
     // Scenario three, user choose two options of four alternatives.
     else if(userOptionLowerCase && userOptionUpperCase) {
       userChoice = lowerCase + upperCase;
-    }
+    } 
 
     else if(userOptionLowerCase && userOptionNumber) {
       userChoice = lowerCase + numbers;
