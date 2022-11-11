@@ -8,5 +8,7 @@ This project is built with HTML,CSS and JavaScript.
 
 ## Link to finished project:
 
+https://honey25k.github.io/javascript-password-generator/
+
 
 
