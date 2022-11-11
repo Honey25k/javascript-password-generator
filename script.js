@@ -30,7 +30,13 @@ var userOptionSpecialChar = window.confirm("Do you want to use any special chara
 
 }
 
-
+if (!userOptionLowerCase && 
+    !userOptionUpperCase && 
+    !userOptionNumber &&
+    !userOptionSpecialChar) {
+      userChoice = window.alert("Password critera not met: must include lower case or upper case letters, numbers or special characters."); 
+    }
+    
 
 
 
